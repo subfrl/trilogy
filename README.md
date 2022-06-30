@@ -10,3 +10,5 @@ Run the <kbd>install.bat</kbd> file, after installation, please run the <kbd>run
 ```py
 trilogy = trilogy("sample.py") # "sample.py" must be changed to your own file name, or just copy and paste your code to asmeple.py!
 ```
+### Need help?
+Feel free to add me on Discord. My tag is `merrick#1000`.
