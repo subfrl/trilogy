@@ -28,3 +28,5 @@ exec(c)
 ```
 ### Need help?
 Feel free to add me on Discord. My tag is `merrick#1000`.
+### Stats
+![Alt](https://repobeats.axiom.co/api/embed/7d9a265f4623a1e9294df563a8c3bc88b244c37c.svg "Repobeats analytics image")
