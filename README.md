@@ -1,3 +1,4 @@
+![Build status](https://img.shields.io/badge/version-1.0.0-lightgrey)
 ## Trilogy
 Effortlessly encrypt your files and decrypt them at runtime
 ### Benefits
