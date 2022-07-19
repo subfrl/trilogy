@@ -6,6 +6,10 @@ Effortlessly encrypt your files and decrypt them at runtime
 - Easily modifiable
 - Extremely flexible
 
+### Limitations
+- Can be slow
+- Can be decrypted
+
 ### Usage
 Run the <kbd>install.bat</kbd> file, after installation, please run the <kbd>run.bat</kbd>. Don't forget to change the file name from <kbd>main.py</kbd>
 ```py
